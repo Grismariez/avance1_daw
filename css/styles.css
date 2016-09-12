@@ -1,0 +1,28 @@
+.derecha{
+	width: 50%;
+	float: right;
+	padding-left: 8%;
+}
+
+.izquierda{
+	width: 50%;
+	float: left;
+}
+
+video{
+	width: 100%;
+	padding: 3%;
+}
+
+h3{
+	text-align: center;
+}
+
+.derecha img{
+	width: 50%;
+	float: left;
+	display: inline-block;
+	margin-top: 5.5%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
